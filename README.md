@@ -1,4 +1,10 @@
 # notes-api
+
+### Description
+Built on Django, it is a note api for saving and retrieving notes from a database. It has full CRUD capability.
+
+_Instructions to run_
+
 On the terminal execute the below command to create the projects' working directory and move into that directory.
 
  
